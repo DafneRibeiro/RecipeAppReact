@@ -1,3 +1,14 @@
+
+# Goals of this project
+* Learn more about ReactJs
+* Create a responsive recipe App
+* Learn how to use an API 
+
+# Build with:
+---
+* ReactJs
+* Edaman Api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
