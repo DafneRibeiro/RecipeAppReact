@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
     getRecipes();
 
-}, [query])
+}, [query], getRecipes)
 
   
   const getRecipes = async () => {
