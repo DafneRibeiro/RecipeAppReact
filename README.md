@@ -1,5 +1,5 @@
 # Link for the website:
-[LINK HERE](https://dafstodolist.netlify.app/)
+
 
 # Goals of this project
 * Learn more about ReactJs
